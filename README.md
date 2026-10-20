@@ -1,8 +1,6 @@
 # insightface-hailo-models
 
-InsightFace `buffalo_l` models compiled to HEF for Hailo-10H, used by
-[atvmon](https://github.com/victorhailo/atvmon)'s `install.sh`.
-
+InsightFace `buffalo_l` models compiled to HEF for Hailo-10H
 The model files are published as assets of the
 [`models-v1` release](../../releases/tag/models-v1):
 
